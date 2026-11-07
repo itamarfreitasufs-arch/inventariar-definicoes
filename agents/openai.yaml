@@ -1,0 +1,14 @@
+interface:
+  display_name: Inventariar definições
+  short_description: Localizar, classificar e comparar definições em textos
+  default_prompt: Use $inventariar-definicoes para localizar e classificar as definições
+    de sustentabilidade nos textos fornecidos.
+  icon_small: assets/icon.svg
+  icon_large: assets/icon.svg
+policy:
+  products:
+  - chatgpt
+  - codex
+  - api
+  - atlas
+  allow_implicit_invocation: true
