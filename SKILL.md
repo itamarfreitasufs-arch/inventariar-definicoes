@@ -3,7 +3,7 @@ name: inventariar-definicoes
 description: Investigar um conceito acadêmico, categoria histórica, conceito histórico ou nome próprio em artigos, livros e capítulos, citar evidências, classificar modos de definir em 18 rubricas e 29 fórmulas, calcular frequências e comparar definições em introduções e conclusões.
 ---
 
-# Inventariar Definições — Definition Extraction and Classification for Historical Research
+# Sager — Inventariar Definições | Definition Extraction and Classification for Historical Research
 
 Versão 0.2.3 experimental. Protocolo de Itamar Freitas, formalizado com assistência de IA.
 
