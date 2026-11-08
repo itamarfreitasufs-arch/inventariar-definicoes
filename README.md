@@ -1,4 +1,4 @@
-# Inventariar definições
+# Inventariar Definições — Definition Extraction and Classification for Historical Research
 
 Protocolo de **Itamar Freitas**, versão **0.2.3 experimental**, formalizado com assistência de IA.
 
