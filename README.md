@@ -25,6 +25,8 @@ Forneça ao assistente o [SKILL.md](SKILL.md), a [grade de classificação](refe
 
 ## Testes e limites
 
+Consulte o [histórico de desenvolvimento](CHANGELOG.md) para a convenção de versões.
+
 O protocolo foi aplicado a manuais de sustentabilidade e a livros sobre educação ambiental. No levantamento de educação ambiental, a auditoria ajudou a detectar definições introduzidas por pronomes ou siglas e a separar a definição de um conceito de instruções sobre como aplicá-lo. As contagens descrevem as obras examinadas. A auditoria por amostra e os limites de leitura, paginação e OCR devem aparecer no relatório.
 
 Ao relatar um problema, indique a versão usada, o trecho autorizado, a classificação recebida e a razão da divergência.
