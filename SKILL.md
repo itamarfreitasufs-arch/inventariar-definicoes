@@ -1,5 +1,5 @@
 ---
-name: inventariar-definicoes
+name: sager
 description: Investigar um conceito acadêmico, categoria histórica, conceito histórico ou nome próprio em artigos, livros e capítulos, citar evidências, classificar modos de definir em 18 rubricas e 29 fórmulas, calcular frequências e comparar definições em introduções e conclusões.
 ---
 
