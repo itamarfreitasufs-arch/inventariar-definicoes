@@ -1,7 +1,7 @@
 interface:
   display_name: Sager — Inventariar Definições | Definition Extraction and Classification for Historical Research
   short_description: Localizar, classificar e comparar definições em textos
-  default_prompt: Use $inventariar-definicoes para localizar e classificar as definições
+  default_prompt: Use $sager para localizar e classificar as definições
     de sustentabilidade nos textos fornecidos.
   icon_small: assets/icon.svg
   icon_large: assets/icon.svg

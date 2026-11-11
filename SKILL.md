@@ -5,7 +5,7 @@ description: Investigar um conceito acadêmico, categoria histórica, conceito h
 
 # Sager — Inventariar Definições | Definition Extraction and Classification for Historical Research
 
-Versão 0.2.3 experimental. Protocolo de Itamar Freitas, formalizado com assistência de IA.
+Versão 0.2.4 experimental. Protocolo de Itamar Freitas, formalizado com assistência de IA.
 
 ## Delimitar o pedido
 
@@ -45,11 +45,11 @@ Usar a grade completa de 18 rubricas e 29 posições, sem aplicar o corte dos qu
 
 ## Entregar o relatório
 
-Começar com identificação da skill, versão, data, obra e edição, termo de entrada, equivalente pesquisado e recorte. Responder imediatamente se o termo foi localizado e onde. Distinguir contagem lexical, presença por página e passagens definidoras. Informar ausências com o alcance efetivo da busca.
+Começar com identificação da skill, versão, data, obra e edição, termo de entrada, equivalente pesquisado e recorte. Responder imediatamente se o termo foi localizado e onde. Distinguir contagem lexical, presença por página e passagens definidoras. Informar a expressão de busca usada na contagem lexical e as variantes incluídas. Informar ausências com o alcance efetivo da busca.
 
 Mostrar as definições em quadro com localizador, trecho definidor e classificação. Na coluna do trecho, apresentar uma citação direta curta e verificável. Acrescentar uma síntese separada quando ela ajudar a ler o excerto. Indicar autor ou instituição, ano e página. Identificar a tradução direta e preservar o original quando solicitado. Quando não houver trecho definidor literal, rotular a reconstrução ou síntese e indicar as passagens que a sustentam. Abaixo do quadro, incluir uma legenda breve com as fórmulas usadas. Em seguida, apresentar frequências, comparação de seções e cobertura.
 
-Encerrar com um verbete em prosa. Abrir com o termo e uma citação direta da definição mais representativa, sem antecipá-la por uma paráfrase. Quando a citação for traduzida, apresentar a tradução direta entre aspas, seguida do trecho na língua original entre colchetes e da referência com autoria, ano, página e indicação de tradução. Conservar o núcleo e os qualificadores da formulação original. Acrescentar contexto depois da citação quando ele esclarecer seu uso, suas consequências ou sua relação com outras passagens. Explicitar a razão da escolha, dando prioridade à formulação que a própria obra adota ou explicita e ao papel que ela exerce no argumento. Usar o glossário como localizador quando oferecer a versão mais direta. Apontar outros lugares em que a mesma definição é retomada. Se houver definições concorrentes, descrevê-las separadamente. Quando solicitado, entregar cópia do PDF com as passagens conferidas realçadas, preservando a paginação original. Ao lado do trecho, incluir ficha visível com código, nome do modelo, fórmula simbólica, explicação em palavras e referência histórica da grade. Distinguir o antecedente histórico da formulação operacional contemporânea. Indicar obra e século ou ano quando conhecidos.
+Encerrar com um verbete em prosa. Abrir com o termo e uma citação direta da definição mais representativa, sem antecipá-la por uma paráfrase. Quando a citação for traduzida, apresentar a tradução direta entre aspas, seguida do trecho na língua original entre colchetes e da referência com autoria, ano, página e indicação de tradução. Conservar o núcleo e os qualificadores da formulação original. Acrescentar contexto depois da citação quando ele esclarecer seu uso, suas consequências ou sua relação com outras passagens. Explicitar a razão da escolha, dando prioridade à formulação que a própria obra adota ou explicita e ao papel que ela exerce no argumento. Usar o glossário como localizador quando oferecer a versão mais direta. Apontar outros lugares em que a mesma definição é retomada. Se houver definições concorrentes, descrevê-las separadamente. Quando solicitado, entregar cópia do PDF com as passagens conferidas realçadas, preservando a paginação original. Ao lado do trecho, incluir ficha visível com código, nome do modelo, fórmula simbólica, explicação em palavras e referência histórica da grade. Se o ambiente não permitir editar o PDF, informar essa limitação e entregar a lista de passagens com localizadores e as respectivas fichas. Distinguir o antecedente histórico da formulação operacional contemporânea. Indicar obra e século ou ano quando conhecidos.
 
 ## Referências
 

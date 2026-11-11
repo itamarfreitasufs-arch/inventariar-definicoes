@@ -1,6 +1,6 @@
 # Sager — Inventariar Definições | Definition Extraction and Classification for Historical Research
 
-Protocolo de **Itamar Freitas**, versão **0.2.3 experimental**, formalizado com assistência de IA.
+Protocolo de **Itamar Freitas**, versão **0.2.4 experimental**, formalizado com assistência de IA.
 
 Esta skill ajuda a descobrir **como um texto define um termo**. Você indica uma palavra ou expressão e fornece o texto. O assistente localiza as passagens relevantes, distingue definições de simples menções e mostra quais operações o autor emprega para definir. A consulta pode ser aplicada a artigos, capítulos e livros.
 
@@ -21,7 +21,7 @@ A distinção entre **categorias históricas**, **conceitos históricos** e **no
 
 Forneça ao assistente o [SKILL.md](SKILL.md), a [grade de classificação](references/grade.csv) e o texto que você quer examinar. Em ferramentas compatíveis com skills, siga o procedimento de importação da pasta. Também é possível usar as instruções e a grade em uma conversa comum.
 
-> Use Inventariar definições para examinar a expressão “educação ambiental” neste capítulo. Indique quem formula cada definição, cite o trecho com a página, classifique a operação principal e apresente as frequências. Separe os casos pendentes e informe a cobertura da leitura.
+> Use Sager para examinar a expressão “educação ambiental” neste capítulo. Indique quem formula cada definição, cite o trecho com a página, classifique a operação principal e apresente as frequências. Separe os casos pendentes e informe a cobertura da leitura.
 
 ## Testes e limites
 
@@ -30,6 +30,10 @@ Consulte o [histórico de desenvolvimento](CHANGELOG.md) para a convenção de v
 O protocolo foi aplicado a manuais de sustentabilidade e a livros sobre educação ambiental. No levantamento de educação ambiental, a auditoria ajudou a detectar definições introduzidas por pronomes ou siglas e a separar a definição de um conceito de instruções sobre como aplicá-lo. As contagens descrevem as obras examinadas. A auditoria por amostra e os limites de leitura, paginação e OCR devem aparecer no relatório.
 
 Ao relatar um problema, indique a versão usada, o trecho autorizado, a classificação recebida e a razão da divergência.
+
+## Autoria e citação
+
+Consulte [CITATION.cff](CITATION.cff) para citar o protocolo. Este repositório ainda não traz arquivo de licença; até a decisão do autor, não presumir permissão para redistribuição ou adaptação.
 
 ## Referências
 

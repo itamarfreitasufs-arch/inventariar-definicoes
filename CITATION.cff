@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "Para citar este protocolo, use a referência abaixo e informe a versão consultada."
+title: "Sager — Inventariar Definições | Definition Extraction and Classification for Historical Research"
+version: "0.2.4"
+date-released: 2026-11-11
+type: software
+authors:
+  - family-names: Freitas
+    given-names: Itamar
+    affiliation: Universidade Federal de Sergipe
+repository-code: "https://github.com/itamarfreitasufs-arch/inventariar-definicoes"
